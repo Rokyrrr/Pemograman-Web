@@ -1,0 +1,36 @@
+.roky{
+text-align: center;
+background-color: darkmagenta;
+color: aliceblue;
+padding-top: 3%;
+padding-left: 3%;
+padding-bottom: 3%;
+padding-right: 3%;
+font-family :'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.siapa{
+text-align: center;
+background-color: blueviolet;
+color: aliceblue;
+padding-top: 0.5%;
+padding-left: 0.5%;
+padding-bottom: 0.5%;
+padding-right: 0.5%;
+}
+.teks{
+    text-align: justify;
+}
+.hubung{
+    position: absolute;
+    top: 80%;
+    right: 10%;
+}
+.footer{
+    text-align: center;
+    background-color: darkmagenta;
+    color: aliceblue;
+    padding-top: 0.5%;
+    padding-left: 0.5%;
+    padding-bottom: 0.5%;
+    padding-right: 0.5%;
+}
